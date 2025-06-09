@@ -1,64 +1,103 @@
-# 💌 Template website undangan pernikahan sederhana
+<div id="top"></div>
+<!--
+*** Thanks for checking out our wedding invitation template.
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
 
-![Thumbnail](/assets/images/banner.webp)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/cef32dbf-f26f-4865-84a9-b85a439c9994/deploy-status)](https://app.netlify.com/sites/ulems/deploys)
-[![Hits](https://dikit.my.id/0b3y8q)](https://cie.my.id)
-[![GitHub repo size](https://img.shields.io/github/repo-size/dewanakl/undangan?color=brightgreen)](https://shields.io)
-[![GitHub License](https://img.shields.io/github/license/dewanakl/undangan?color=brightgreen)](https://shields.io)
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://ngodingsolusi.github.io/the-wedding-of-rehan-maulidan/">
+    <img src="images/readme/half%20circle.png" alt="Logo" width="120" height="120">
+  </a>
 
-## 🚀 Demo
-Untuk kamu yang ingin melihat demo terlebih dahulu:
+  <h1 align="center">The Wedding</h1>
 
-[https://ulems.my.id/?to=Teman teman semua](https://ulems.my.id/?to=Teman%20teman%20semua)
+  <p align="center">
+    <strong>Rehan & Maulidan</strong>
+    <br />
+    <a href="https://ngodingsolusi.github.io/the-wedding-of-rehan-maulidan/">Explore the Invitation ! »</a>
+    <br />
+    <br />
+    <a href="https://github.com/rayhanyulanda">Rayhan Yulanda</a>
+    ·
+    <a href="https://github.com/maulidannashuha">Maulidan Nashuha</a>
+  </p>
+</div>
 
-## 📦 Documentation
+## Features
+- Countdown to the date and count how many days have been
+- Save google calendar
+- Couple profile
+- Event date
+- Gallery photos
+- Quotes
+- Health protocol
+- RSVP with issue API
+- Music from youtube API
 
-- Jalankan: `npm install` serta `npm run dev`.
-- Ubah isi dari index.html sesuai yang kamu mau.
-- Jika tidak ingin menggunakan `komentar` bisa hapus `data-url` dan `data-key` pada body index.
-- Sesuaikan `data-url` pada body index dan dashboard sesuai url backend (jika deploy sendiri).
-- Sesuaikan juga `data-key` dengan access key pada dashboard.
-- Jika mau menggunakan gif, dapatkan tenor key di [developers.google.com/tenor](https://developers.google.com/tenor/guides/quickstart)
-- Waktu deploy: `npm run build:public` dan folder public yang akan di deploy.
-- Self deployment backend bisa lihat dibawah atau ingin coba gratis pada trial api.
+<!-- The wedding -->
+## Maulidan Nashuha <img src="images/readme/man.png" width="30px">
 
-> Undangan ini hanya HTML, CSS, dan JavaScript seperti biasa. NPM digunakan untuk build file js agar dieksekusi secara langsung (bukan tipe module lagi).
 
-> Jika kamu punya pertanyaan, silakan gunakan fitur `discussions` agar teman-teman yang lain juga mengetahuinya.
 
-## 🔥 Deployment API
+Reach me around the web :
 
-- Video\
-    otw
+<a href="https://www.linkedin.com/in/maulidannashuha/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.github.com/maulidannashuha/" target="_blank">
+<img src="https://img.shields.io/badge/Github-%fedcba.svg?&style=flat-square&logo=github&logoColor=white&color=black" alt="Github">
+</a>
+<a href="https://www.instagram.com/maulidannashuha/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<!--<a href="https://twitter.com/ngodingsolusi" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+</a>
+<a href="https://dev.to/ABSphreak" target="_blank">
+<img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to">
+</a>
+<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank">
+<img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
+</a>-->
 
-- Presentation
-    [https://docs.google.com/presentation](https://docs.google.com/presentation/d/1EY2YmWdZUI7ASoo0f2wvU7ec_Yt0uZanYa8YLbfNysk/edit)
 
-## ⏰ Trial API
-Untuk kamu yang ingin mencoba secara gratis:
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-[https://trial.ulems.my.id](https://trial.ulems.my.id)
 
-## ⚙️ Tech stack
+## Rayhan Yulanda <img src="images/readme/woman.png" width="30px">
 
-- Bootstrap 5.3.6
-- AOS 2.3.4
-- Fontawesome 6.7.2
-- Normalize 8.0.1
-- Canvas Confetti 1.9.3
-- Google Fonts
-- Vanilla JS
-- Image from Pixabay
 
-## 🤝 Contributing
 
-I'm very open to those of you who want to contribute to the undangan!
+Reach me around the web :
 
-## 🐞 Security Vulnerabilities
+<a href="https://linkedin.com/in/rayhanyulanda">
+  <img alt="Rehan's Linkdein" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/linkedin.png" />
+</a>
+<a target="_blank" href="https://github.com/rayhanyulanda">
+<img alt="Rehan's Github" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/github.png" />
+</a>
+<a target="_blank" href="https://www.facebook.com/rayhanyulanda/">
+<img alt="Rehan's Facebook" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/facebook.png" />
+</a>
+<a target="_blank" href="https://medium.com/@rayhanyulanda">
+<img alt="Rehan's Medium" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/medium.png" />
+</a>
 
-If you find any security vulnerabilities in this undangan, please email DKL via [dewanakretarta29@gmail.com](mailto:dewanakretarta29@gmail.com).
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-## 📜 License
+### Our big thanks to :
+- [Flaticon](https://flaticon.com) - for the assets
+- [Freepik](https://freepik.com) - for the images
+- [Base Template](https://technext.github.io/wedding/)
 
-Undangan is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+### Show some :heart: with star the repo to support the project
+[![GitHub stars](https://img.shields.io/github/stars/ngodingsolusi/the-wedding-of-rehan-maulidan.svg?style=social&label=Star)](https://github.com/ngodingsolusi/the-wedding-of-rehan-maulidan)
+[![GitHub forks](https://img.shields.io/github/forks/ngodingsolusi/the-wedding-of-rehan-maulidan.svg?style=social&label=Fork)](https://github.com/ngodingsolusi/the-wedding-of-rehan-maulidan)
+[![GitHub watchers](https://img.shields.io/github/watchers/ngodingsolusi/the-wedding-of-rehan-maulidan.svg?style=social&label=Watch)](https://github.com/ngodingsolusi/the-wedding-of-rehan-maulidan)
+[![GitHub followers](https://img.shields.io/github/followers/maulidannashuha.svg?style=social&label=Follow)](https://github.com/maulidannashuha)
+
+### NOTE : PLEASE KEEP THE COPYRIGHTS OR CREDITS
