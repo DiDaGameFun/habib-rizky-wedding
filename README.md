@@ -37,4 +37,4 @@
 - Music from youtube API
 
 <!-- The wedding -->
-## Maulidan Nashuha <img src="images/readme/man.png" width="30px">
+## Di Da Game Fun <img src="images/readme/man.png" width="30px">
