@@ -18,10 +18,11 @@
   <p align="center">
     <strong>Habib & Rizky</strong>
     <br />
-    <a href="https://github.com/DiDaGameFun">Explore the Invitation ! »</a>
+    <a href="https://github.com/DiDaGameFun">GitHub »</a>
     <br />
+    <a href="https://www.facebook.com/people/Di-Da-Game-Fun/61558009631359/">Facebook »</a>
     <br />
-    <a href="https://github.com/DiDaGameFun">Di Da Game Fun</a>
+    <a href="https://youtube.com/@didagamefun?si=EcN-IQncGdNNeTST">Di Da Game Fun</a>
   </p>
 </div>
 
